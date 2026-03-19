@@ -3,11 +3,10 @@ import './Footer.css'
 
 const Footer = () => {
   return (
-    <div className='Footer'>
-      
+    <div className='footer'>
+      <p>Footer</p>
     </div>
-    import './Footer.css'
   )
 }
 
-export default Footer className='Footer'
+export default Footer
